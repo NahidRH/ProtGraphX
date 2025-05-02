@@ -66,9 +66,6 @@ Make sure your `.pdb` and `.csv` files are in the correct location, then run the
   * `.graphml` and `.gpickle` (for NetworkX)
   * `.pt` (for PyTorch Geometric)
 * Visualization image saved as `graph.png`
-
-![graph preview](graph.png)
-
 ---
 
 ## Planned Extensions
