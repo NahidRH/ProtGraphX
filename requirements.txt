@@ -1,0 +1,6 @@
+pandas
+scipy
+networkx
+matplotlib
+biopython
+torch>=2.0.0
