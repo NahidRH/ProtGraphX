@@ -1,0 +1,21 @@
+AA,Name,Hydrophobicity,MolecularWeight,Charge
+A,Alanine,1.8,89.1,0
+R,Arginine,-4.5,174.2,1
+N,Asparagine,-3.5,132.1,0
+D,Aspartic Acid,-3.5,133.1,-1
+C,Cysteine,2.5,121.2,0
+Q,Glutamine,-3.5,146.2,0
+E,Glutamic Acid,-3.5,147.1,-1
+G,Glycine,-0.4,75.1,0
+H,Histidine,-3.2,155.2,0.5
+I,Isoleucine,4.5,131.2,0
+L,Leucine,3.8,131.2,0
+K,Lysine,-3.9,146.2,1
+M,Methionine,1.9,149.2,0
+F,Phenylalanine,2.8,165.2,0
+P,Proline,-1.6,115.1,0
+S,Serine,-0.8,105.1,0
+T,Threonine,-0.7,119.1,0
+W,Tryptophan,-0.9,204.2,0
+Y,Tyrosine,-1.3,181.2,0
+V,Valine,4.2,117.1,0
